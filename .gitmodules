@@ -1,0 +1,9 @@
+[submodule "HomeSweetHome-backend-core"]
+	path = HomeSweetHome-backend-core
+	url = https://github.com/dogyungkim/HomeSweetHome-backend-core.git
+[submodule "HomeSweetHome-sse"]
+	path = HomeSweetHome-sse
+	url = https://github.com/dogyungkim/HomeSweetHome-sse.git
+[submodule "HomeSweetHome-notification"]
+	path = HomeSweetHome-notification
+	url = https://github.com/dogyungkim/HomeSweetHome-notification.git
