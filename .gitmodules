@@ -7,3 +7,6 @@
 [submodule "HomeSweetHome-notification"]
 	path = HomeSweetHome-notification
 	url = https://github.com/dogyungkim/HomeSweetHome-notification.git
+[submodule "Homesweethome.wiki"]
+	path = Homesweethome.wiki
+	url = https://github.com/dogyungkim/Homesweethome.wiki.git
