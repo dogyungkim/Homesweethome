@@ -41,8 +41,7 @@ Spring Boot와 SSE(Server-Sent Events)를 기반으로 구축되었으며, 단�
 | **sse-mvc** | Servlet Stack(MVC) 기반의 SSE 서버 (비교 및 레거시 용도) |
 
 ### System Design
-<!-- TODO: Architecture Diagram Here -->
-> *[Structure] Architecture Diagram Recommendation: 서버 간의 통신 흐름(Core -> Redis -> SSE -> Client)을 시각화한 이미지를 여기에 추가하세요.*
+<img width="2960" height="1636" alt="Untitled-6" src="https://github.com/user-attachments/assets/bbc483f8-5d7b-40d2-9ea2-57f7a3a4787d" />
 
 ---
 
